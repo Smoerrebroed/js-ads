@@ -1,0 +1,10 @@
+# Modify install directory and all port number references
+#
+mode=unattended
+install_directory=/opt/TDV
+server_port=9400
+repository_admin_password=tibcoadmin
+database_admin_password=tibcoadmin
+server_admin_password=tibcoadmin
+encryption_password=tibcoadmin
+unique_Id=58c9454e883ff5135f4bc55589820c36
